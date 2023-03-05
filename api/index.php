@@ -1,5 +1,5 @@
 <?php
 
-require '/../my.php';
+phpinfo();
 
 ?>
