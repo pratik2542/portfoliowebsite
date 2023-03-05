@@ -1,0 +1,5 @@
+<?php
+
+require '/../my.php';
+
+?>
